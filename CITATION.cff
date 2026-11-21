@@ -10,3 +10,5 @@ date-released: 2026-11-20
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d29
 abstract: "Exact labelled Euclidean metric on thirty-four points preserving all 528 parent pair distances, and ideal model graph eigenmodes."
+doi: 10.5281/zenodo.24410725
+url: https://doi.org/10.5281/zenodo.24410725

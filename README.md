@@ -25,6 +25,15 @@ python tests/independent_d29.py
 
 The programs produce the identical SHA-256 for `results/certificate_d29.json`. The immutable predecessor tag sources and ancestral evidence are archived under `prior/d28/` without any embedded `.git` metadata or Git submodule.
 
+## Official Zenodo DOI and verification
+
+- **DOI:** [10.5281/zenodo.24410725](https://doi.org/10.5281/zenodo.24410725).
+- **Public record:** https://zenodo.org/records/24410725, all 3 files verified through public Zenodo API for size and MD5.
+- **Frozen scientific tag:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d29/tree/v0.1.0) at commit `cbe179697cc1a287fc0637912ea6a6fd890eeca4`.
+- **Tag CI:** [GitHub Actions 44861965973](https://github.com/Topbrutus/polybrutus-d29/actions/runs/44861965973), success.
+- **Durable scientific checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D29_PUBLICATION_2026-11-20.md .
+- **Program publication registry:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+
 ## Scientific files
 
 - [Specification](SPECIFICATION_D29.md), [exact proof](PREUVE_D29.md), [provenance](PROVENANCE.md).
